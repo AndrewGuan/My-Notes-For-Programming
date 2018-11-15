@@ -1,0 +1,35 @@
+WINDOWS USERS:
+
+Typing Speed: It is essential to have good typing speed.
+
+Cursor moving among words, characters or lines:
+
+Now let say you have a line containing 10 words separated with white space. Your cursor is blinking at end of line. You mis-typed second word from the beginning. Now to reach there in order to correct the mistake we should press HOME KEY from the keyboard to instantly reach there, now you would not too far from the mis-typed word.
+
+Now what if sixth word is mis-typed: Then press the CTRL KEY + LEFT ARROW KEY to move the cursor per word till next white space, instead of single character.
+
+In short,
+
+Move the cursor per word -> CTRL + LEFT/RIGHT ARROW KEY
+
+Select the whole word -> CTRL + SHIFT + LEFT/RIGHT ARROW KEY
+
+Remove the whole word -> CTRL + BACKSPACE
+
+Reach the End of Line -> END KEY
+
+Reach the Beginning of Line -> HOME KEY
+
+Select whole line -> SHIFT + HOME (If cursor is at the end of line.)
+
+Select whole line -> SHIFT + END (If cursor is at the beginning of line.)
+
+Select entire document characters -> CTRL + A
+
+Open My Computer/THIS PC -> WINDOWS + E
+
+Open Run -> WINDOWS + R
+
+Minimize all the windows programs -> WINDOWS + D
+
+Fast scrolling browser’s webpages or documents: Make use of PgUp/PgDn, HOME/END
